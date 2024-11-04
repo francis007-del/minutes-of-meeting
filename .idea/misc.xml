@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProtobufSettings">
+    <roots>
+      <entry path="file://$USER_HOME$/go/src/github.com/epifi/protos" />
+      <entry path="file://$USER_HOME$/go/pkg/mod/github.com/googleapis/googleapis@v0.0.0-20191219033356-d400cb8d45df" />
+      <entry path="file://$USER_HOME$/go/pkg/mod/github.com/envoyproxy/protoc-gen-validate@v0.2.0-java" />
+    </roots>
+  </component>
+</project>
